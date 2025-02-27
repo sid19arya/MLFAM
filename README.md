@@ -44,6 +44,7 @@ Below are tables for each one of these categories listing all relevant concepts 
 |:--------|:------:|-------:|
 | Bias Varience Tradeoff        | --     | --      |
 | Autodiff      | --      | --      |
+| Double Descent      | --      | --      |
 
 ## Practical Considerations
 | Concept    | Hyperlink  | Last Updated  |
