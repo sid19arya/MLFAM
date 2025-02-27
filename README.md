@@ -32,6 +32,7 @@ Below are tables for each one of these categories listing all relevant concepts 
 |:--------|:------:|-------:|
 | CNN       | --      | --      |
 | RNN       | --      | --      |
+| SVM       | --      | --      |
 
 ## Architecture Component
 | Concept    | Hyperlink  | Last Updated  |
@@ -51,4 +52,6 @@ Below are tables for each one of these categories listing all relevant concepts 
 |:--------|:------:|-------:|
 | Train/Test/Val Data      | --      | --      |
 | Hyperperameter Tuning [GridSearch]       | --      | --     |
+| Regularization     | --      | --      |
+| Batch Normalization     | --      | --      |
 
