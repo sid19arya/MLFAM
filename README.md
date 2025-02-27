@@ -43,7 +43,7 @@ Below are tables for each one of these categories listing all relevant concepts 
 ## Underlying Components
 | Concept    | Hyperlink  | Last Updated  |
 |:--------|:------:|-------:|
-| Bias Varience Tradeoff        | --     | --      |
+| Bias Varience Tradeoff        | [BiasVarianceTradeoff](UnderlyingConcepts/BiasVariance.md)     | --      |
 | Autodiff      | --      | --      |
 | Double Descent      | --      | --      |
 
