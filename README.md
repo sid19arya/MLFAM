@@ -28,29 +28,29 @@ Below are tables for each one of these categories listing all relevant concepts 
 
 
 ## Model / Model Architecture
-| Concept    | Hyperlink  | Last Updated  |
+| Concept    | Hyperlink  | Read Time  |
 |:--------|:------:|-------:|
 | CNN       | --      | --      |
 | RNN       | --      | --      |
 | SVM       | --      | --      |
 
 ## Architecture Component
-| Concept    | Hyperlink  | Last Updated  |
+| Concept    | Hyperlink  | Read Time  |
 |:--------|:------:|-------:|
 | Feed Forward       | --      | --      |
 | Attention       | --      | --     |
 
 ## Underlying Components
-| Concept    | Hyperlink  | Last Updated  |
+| Concept    | Hyperlink  | Read Time  |
 |:--------|:------:|-------:|
-| Bias Varience Tradeoff        | [BiasVarianceTradeoff](UnderlyingConcepts/BiasVariance.md)     | --      |
+| Bias Varience Tradeoff        | [BiasVarianceTradeoff](UnderlyingConcepts/BiasVariance.md)     | 5 mins      |
 | Autodiff      | --      | --      |
 | Double Descent      | --      | --      |
 
 ## Practical Considerations
 | Concept    | Hyperlink  | Last Updated  |
 |:--------|:------:|-------:|
-| Train/Test/Val Data      | --      | --      |
+| Train/Test/Val Data      | [TrainTestValSplit](PracticalConsiderations/TrainTestVal.md) | 2 mins      |
 | Hyperperameter Tuning [GridSearch]       | --      | --     |
 | Regularization     | --      | --      |
 | Batch Normalization     | --      | --      |
